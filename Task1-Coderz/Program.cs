@@ -1,6 +1,6 @@
 ﻿//Purchase Discount App
 
-Console.WriteLine("Welcome in Coderz market :)");
+Console.WriteLine("Hello! Welcome in Coderz market :)");
 DateTime dateTime = DateTime.UtcNow;
 string dateTimeStr = dateTime.ToString("dd-MMMM-yyyy");
 string dateTimeStr2 = dateTime.ToString("hh:mm-ss tt");
